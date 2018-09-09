@@ -15,13 +15,13 @@ export default class headerComponent extends React.Component{
         return (
             <div id="header-box">
                 <div id="streak-container" class="header-card">
-                    <h2>Streak</h2>
+                    <h2>streak</h2>
                     <div>
                         {this.state.streak}
                     </div>
                 </div>
                 <div id="total-container" class="header-card">
-                    <h2>Total Sessions</h2>
+                    <h2>total sessions</h2>
                     <div>
                         {this.state.total}
                     </div>

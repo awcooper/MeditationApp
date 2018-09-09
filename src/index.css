@@ -1,8 +1,25 @@
+
+
 h1 {
   margin: 0;
   padding: 0;
   font-family: "Courier New";
-  font-size: 24px;
+  font-size: 50px;
+  color: green;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+h3 {
+  margin:0;
+  padding: 0;
+  font-family: "Courier New";
+  font-size: 40px
 }
 
 .header-card{
@@ -28,7 +45,7 @@ h1 {
 .option-button{
   margin: auto;
   width: 800px;
-  background-color: yellow;
+  background-color: lightblue;
 
 }
 

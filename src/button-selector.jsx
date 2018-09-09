@@ -15,10 +15,10 @@ export default class buttonComponent extends React.Component{
         return (
             <div id="button-box">
                 <div id="mediate-button" class="option-button">
-                    <h2>Meditate</h2>
+                    <h1>meditate</h1>
                 </div>
                 <div id="setting-button" class="option-button">
-                    <h2>Setting</h2>
+                    <h1>settings</h1>
                 </div>
             </div>
         )
