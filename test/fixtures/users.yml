@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  streak: 1
+  total_sessions: 1
+
+two:
+  name: MyString
+  email: MyString
+  streak: 1
+  total_sessions: 1
