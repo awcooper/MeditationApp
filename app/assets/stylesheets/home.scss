@@ -7,7 +7,7 @@ h1 {
   padding: 0;
   font-family: "Courier New";
   font-size: 50px;
-  color: green;
+  color: white;
 }
 
 h2 {
@@ -25,8 +25,8 @@ h3 {
 }
 
 .header-card{
-  width: 300px;
-  height: 200px;
+  width: 150px;
+  height: 100px;
   border: 1px solid black;
   text-align: center;
 
@@ -40,14 +40,25 @@ h3 {
   float: right;
 }
 
+.header-stats{
+  font-family: "Courier New";
+  font-size: 40px
+}
+
 .button-box{
-  width: 100%
+  width: 100%;
+  min-width: 600px;
 }
 
 .option-button{
   margin: auto;
-  width: 800px;
+  position: relative;
+  left:0;
+  right:0;
+
   background-color: lightblue;
+  border: 1px solid green;
+  border-style: dashed solid;
 
 }
 
